@@ -90,4 +90,4 @@ while true
 end
 
 
-close(writerObj);
+close(writerObj); % Ctrl+C 停止程序后需要手动执行这句话才能生成视频文件
