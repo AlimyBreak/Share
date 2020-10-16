@@ -1,0 +1,5 @@
+Svm_InstallModel ret_val = 0
+decision_value = 1.235042
+Svm_Prediction ret_val = 0
+x_test prediction result = 1
+                                                  
