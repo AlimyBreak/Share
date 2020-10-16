@@ -1,0 +1,28 @@
+
+\documentclass{article}
+\usepackage[UTF8]{ctex}
+
+\title{测试\\换行\& 与符号}%文档标题
+\author{白菜}%作者
+\begin{document}%开始文章书写
+\maketitle%将封面打印出来，也就是上面的标题作者
+\tableofcontents %自动目录
+%摘要
+\vspace{8pt} %字号大小
+\renewcommand{\abstractname}{\huge 摘\quad 要}
+\begin{abstract} %开始写摘要
+\normalsize
+\noindent 这个是摘要啦
+\end{abstract}
+\section{第一个章节}
+\paragraph{主要内容}~{} \newline \indent 换一行写正文，两个缩进
+\subparagraph{子段}本次汇报主要总结最近精看的几篇深度学习文章以及关于卷积RBM在运动捕捉数据中的实验结果和进一步将展开的工作。深度学习文章主要有四篇，分别介绍了CNN在运动捕捉数据建模中的应用，以及卷积RBM最开始的提出和在Audio分类中的应用。另外一篇论文介绍了运动拼接的一种方法。
+ 
+\section{第二个章节}
+\paragraph{} 写什么好呢
+\subsection{来个子章节}可以可以
+ 
+\section{第三个章节}
+\paragraph{}写一个段落
+\subparagraph{}再来一个字段落
+\end{document}
