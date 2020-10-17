@@ -1,0 +1,12 @@
+﻿  plot_bymatlab.cpp
+c:\users\veepoo\desktop\任务12_vs2015_matlab2018b联合调试环境\test9\plot_bymatlab.cpp(122): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\veepoo\desktop\任务12_vs2015_matlab2018b联合调试环境\test9\plot_bymatlab.cpp(123): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\veepoo\desktop\任务12_vs2015_matlab2018b联合调试环境\test9\plot_bymatlab.cpp(177): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\veepoo\desktop\任务12_vs2015_matlab2018b联合调试环境\test9\plot_bymatlab.cpp(178): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\veepoo\desktop\任务12_vs2015_matlab2018b联合调试环境\test9\plot_bymatlab.cpp(179): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\veepoo\desktop\任务12_vs2015_matlab2018b联合调试环境\test9\plot_bymatlab.cpp(180): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  main.cpp
+  正在生成代码...
+c:\users\veepoo\desktop\任务12_vs2015_matlab2018b联合调试环境\test9\plot_bymatlab.cpp(21): warning C4715: “Plot_MatlabInit”: 不是所有的控件路径都返回值
+  test9.vcxproj -> C:\Users\veepoo\Desktop\任务12_VS2015_MATLAB2018b联合调试环境\x64\Debug\notepad.exe
+  test9.vcxproj -> C:\Users\veepoo\Desktop\任务12_VS2015_MATLAB2018b联合调试环境\x64\Debug\notepad.pdb (Full PDB)

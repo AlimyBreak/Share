@@ -1,0 +1,22 @@
+﻿  plot_bymatlab.cpp
+c:\users\veepoo\desktop\任务12_vs2015_matlab2018b联合调试环境\test9\plot_bymatlab.cpp(122): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\veepoo\desktop\任务12_vs2015_matlab2018b联合调试环境\test9\plot_bymatlab.cpp(123): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\veepoo\desktop\任务12_vs2015_matlab2018b联合调试环境\test9\plot_bymatlab.cpp(177): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\veepoo\desktop\任务12_vs2015_matlab2018b联合调试环境\test9\plot_bymatlab.cpp(178): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\veepoo\desktop\任务12_vs2015_matlab2018b联合调试环境\test9\plot_bymatlab.cpp(179): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\veepoo\desktop\任务12_vs2015_matlab2018b联合调试环境\test9\plot_bymatlab.cpp(180): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+c:\users\veepoo\desktop\任务12_vs2015_matlab2018b联合调试环境\test9\plot_bymatlab.cpp(21): warning C4715: “Plot_MatlabInit”: 不是所有的控件路径都返回值
+  正在跳过...(未检测到相关更改)
+  main.cpp
+plot_bymatlab.obj : error LNK2019: 无法解析的外部符号 _mxGetPr_800，该符号在函数 "void __cdecl Plot_ByMatlabDouble(int *,int *,unsigned int)" (?Plot_ByMatlabDouble@@YAXPAH0I@Z) 中被引用
+plot_bymatlab.obj : error LNK2019: 无法解析的外部符号 _mxCreateDoubleMatrix_800，该符号在函数 "void __cdecl Plot_ByMatlabDouble(int *,int *,unsigned int)" (?Plot_ByMatlabDouble@@YAXPAH0I@Z) 中被引用
+plot_bymatlab.obj : error LNK2019: 无法解析的外部符号 _engEvalString，该符号在函数 "void __cdecl Plot_ByMatlabDouble(int *,int *,unsigned int)" (?Plot_ByMatlabDouble@@YAXPAH0I@Z) 中被引用
+plot_bymatlab.obj : error LNK2019: 无法解析的外部符号 _engOpen，该符号在函数 "signed char __cdecl Plot_MatlabInit(void)" (?Plot_MatlabInit@@YACXZ) 中被引用
+plot_bymatlab.obj : error LNK2019: 无法解析的外部符号 _engClose，该符号在函数 "void __cdecl Close_PlotAlgo(void)" (?Close_PlotAlgo@@YAXXZ) 中被引用
+plot_bymatlab.obj : error LNK2019: 无法解析的外部符号 _engPutVariable，该符号在函数 "void __cdecl Plot_ByMatlabDouble(int *,int *,unsigned int)" (?Plot_ByMatlabDouble@@YAXPAH0I@Z) 中被引用
+C:\Program Files\MATLAB\R2018b\extern\lib\win64\microsoft\libeng.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“X86”冲突
+C:\Program Files\MATLAB\R2018b\extern\lib\win64\microsoft\libmx.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“X86”冲突
+C:\Program Files\MATLAB\R2018b\extern\lib\win64\microsoft\libmat.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“X86”冲突
+C:\Program Files\MATLAB\R2018b\extern\lib\win64\microsoft\libmex.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“X86”冲突
+C:\Users\veepoo\Desktop\任务12_VS2015_MATLAB2018b联合调试环境\Debug\notepad.exe : fatal error LNK1120: 6 个无法解析的外部命令
