@@ -23,8 +23,10 @@
   + 打开Texmaker-选项-配置Texmaker,配置选中$LaTeX$和$PdfLaTex$对应所在的路径即可,设置完成后的效果如下图所示
   
     ![01](TexMaker_Texlive.assets/01.png)
-
-
+  
+  + 设置快速构建命令
+  
+    ![01](TexMaker_Texlive.assets/07.png)
 
 ***
 
@@ -72,8 +74,8 @@
 <div align = right>
     AlimyBreak
 </div>
-
 <div align = right>
-    2019.12.09
+    2020.10.25
 </div>
+
 
