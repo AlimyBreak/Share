@@ -1,0 +1,86 @@
+
+#########工作用
+#门户网站
+127.0.0.1 localhost
+127.0.0.1 www.ifeng.com
+127.0.0.1 ifeng.com
+
+127.0.0.1 www.163.com
+127.0.0.1 163.com
+127.0.0.1 www.qq.com
+127.0.0.1 qq.com
+127.0.0.1 user.qzone.qq.com
+127.0.0.1 qzone.qq.com
+127.0.0.1 51.com
+127.0.0.1 www.51.com 
+127.0.0.1 www.skype.com
+127.0.0.1 skype.com
+127.0.0.1 www.renren.com
+127.0.0.1 renren.com
+127.0.0.1 zaobao.com
+127.0.0.1 www.zaobao.com  
+#技术论坛
+127.0.0.1 bbs.wps.cn
+127.0.0.1 wps.cn
+127.0.0.1 www.wps.cn
+127.0.0.1 bbs.3lsoft.com
+127.0.0.1 3lsoft.com
+127.0.0.1 notepad-plus-plus.org
+127.0.0.1 www.kuaipan.cn
+127.0.0.1 bbs.duba.net
+127.0.0.1 bbs.kuaipan.cn
+127.0.0.1 help.kuaipan.cn
+127.0.0.1 kblog.wps.cn
+#127.0.0.1 bbs.pediy.com
+#127.0.0.1 bbs.kanxue.com
+127.0.0.1 kanxue.com
+127.0.0.1 www.kanxue.com
+127.0.0.1 sgoldcn.com
+127.0.0.1 www.sgoldcn.com
+127.0.0.1 d.1tpan.com
+#娱乐  
+127.0.0.1 pctowap.com
+127.0.0.1 www.pctowap.com
+127.0.0.1 t.qq.com
+127.0.0.1 weibo.com
+127.0.0.1 www.weibo.com
+127.0.0.1 www.360buy.com
+127.0.0.1 360buy.com
+127.0.0.1 chouti.com
+127.0.0.1 dig.chouti.com
+127.0.0.1 www.wyzxsx.com
+127.0.0.1 www.weibo.com
+127.0.0.1 weibo.com
+127.0.0.1 www.pctowap.com
+127.0.0.1 pctowap.com
+127.0.0.1 qzone.qq.com
+127.0.0.1 mop.com
+127.0.0.1 www.mop.com
+127.0.0.1 qidian.com
+127.0.0.1 www.qidian.com
+127.0.0.1 youku.com
+127.0.0.1 www.youku.com
+127.0.0.1 tudou.com
+127.0.0.1 www.tudou.com
+127.0.0.1 m.qiushibaike.com
+127.0.0.1 qiushibaike.com
+127.0.0.1 www.qiushibaike.com
+127.0.0.1 tieba.baidu.com
+127.0.0.1 75bt.info
+127.0.0.1 www.wpzyw.com
+127.0.0.1 wpzyw.com
+127.0.0.2 bbs.wpzyw.com
+#生活  
+127.0.0.1 www.taobao.com
+127.0.0.1 taobao.com
+127.0.0.1 www.360buy.com
+127.0.0.1 360buy.com
+#网盘    
+127.0.0.1 115.com
+127.0.0.1 www.115.com
+127.0.0.1 dbank.com
+127.0.0.1 www.dbank.com
+127.0.0.1 1tpan.com
+127.0.0.1 www.1tpan.com
+#
+127.0.0.1 pt.3g.qq.com
