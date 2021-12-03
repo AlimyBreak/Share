@@ -4,7 +4,7 @@ clc;
 
 r = linspace(0,100,100);
 
-theta = linspace(0,6*pi,1000);
+theta = linspace(0,pi,1000);
 
 for ii = 1:length(r)
     x = r(ii).*(theta - sin(theta) );
@@ -18,7 +18,7 @@ end
 
 x1 = linspace(0,100*pi,100);
 y1 = 2/pi*x1;
-plot(x1,y1,'linewidth',10);
+plot(x1,y1,'linewidth',2);
 
 
 

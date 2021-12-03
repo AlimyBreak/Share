@@ -77,7 +77,7 @@ x &=& r(\theta - \sin\theta)  + C_2
 $$
 $x,y$过零点,所以当$\theta = 0$时，$x=y = 0$
 
-x,y过极值点,所以当$\theta = \pi$时,$x=x_1,y=y_1$(特殊情况,其实$\theta$不一定)
+x,y过极值点,所以当$\theta = \pi$时,$x=x_1,y=y_1$
 $$
 \begin{eqnarray}
 x(0) &=& C_2 = 0 \\
