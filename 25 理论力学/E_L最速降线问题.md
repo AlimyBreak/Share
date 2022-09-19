@@ -75,6 +75,14 @@ x &=& r(\theta - \sin\theta)  + C_2
 
 \end{eqnarray}
 $$
+
+
+
+
+***
+
+**错误的推导**
+
 $x,y$过零点,所以当$\theta = 0$时，$x=y = 0$
 
 x,y过极值点,所以当$\theta = \pi$时,$x=x_1,y=y_1$
